@@ -83,5 +83,5 @@ This project is licensed under the MIT License.
 Feel free to submit pull requests or open issues to improve this project.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/your-username/)
+Z3RO_COOL - [GitHub Profile](https://github.com/shabbirtoha/)
 
